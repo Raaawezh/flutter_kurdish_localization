@@ -519,52 +519,52 @@ class KurdishMaterialLocalizations extends GlobalMaterialLocalizations {
   String get menuBarMenuLabel => " ";
 
   @override
-  // TODO: implement bottomSheetLabel
   String get bottomSheetLabel => " ";
 
   @override
-  // TODO: implement currentDateLabel
   String get currentDateLabel => " ";
 
   @override
-  // TODO: implement keyboardKeyShift
   String get keyboardKeyShift => " ";
 
   @override
-  // TODO: implement scrimLabel
   String get scrimLabel => " ";
 
   @override
-  // TODO: implement scrimOnTapHintRaw
   String get scrimOnTapHintRaw => " ";
 
   @override
-  // TODO: implement collapsedHint
   String get collapsedHint => " ";
 
   @override
-  // TODO: implement expandedHint
   String get expandedHint => " ";
 
   @override
-  // TODO: implement expansionTileCollapsedHint
   String get expansionTileCollapsedHint => " ";
 
   @override
-  // TODO: implement expansionTileCollapsedTapHint
   String get expansionTileCollapsedTapHint => " ";
 
   @override
-  // TODO: implement expansionTileExpandedHint
   String get expansionTileExpandedHint => " ";
 
   @override
-  // TODO: implement expansionTileExpandedTapHint
   String get expansionTileExpandedTapHint => " ";
 
   @override
-  // TODO: implement scanTextButtonLabel
   String get scanTextButtonLabel => " ";
+  
+  @override
+  String get lookUpButtonLabel => "";
+  
+  @override
+  String get menuDismissLabel => "";
+  
+  @override
+  String get searchWebButtonLabel => "";
+  
+  @override
+  String get shareButtonLabel => "";
 }
 
 const kuDateSymbols = {
