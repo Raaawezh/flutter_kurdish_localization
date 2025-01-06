@@ -258,7 +258,7 @@ class KurdishCupertinoLocalizationsDelegate
         singleDigitHourFormat: intl.DateFormat('EEEE, MMMM d, y', localeName),
         singleDigitMinuteFormat: intl.DateFormat('MMMM y', localeName),
         singleDigitSecondFormat: intl.DateFormat('MMM d', localeName),
-        weekdayFormat: intl.DateFormat.yMd(),
+        weekdayFormat: intl.DateFormat.yMd(localeName),
       ),
     );
   }
