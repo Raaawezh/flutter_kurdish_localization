@@ -369,4 +369,12 @@ class KurdishCupertinoLocalizations extends GlobalCupertinoLocalizations {
   @override
   // TODO: implement clearButtonLabel
   String get clearButtonLabel => "";
+  
+  @override
+  // TODO: implement backButtonLabel
+  String get backButtonLabel => "";
+  
+  @override
+  // TODO: implement cancelButtonLabel
+  String get cancelButtonLabel => "";
 }
